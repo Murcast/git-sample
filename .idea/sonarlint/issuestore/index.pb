@@ -9,3 +9,9 @@ c
 3src/test/java/com/epam/project/ApplicationTest.java,d\a\da813b7425d6337ca8f537a3f5ced52da79023bc
 _
 /src/main/java/com/epam/project/Application.java,e\0\e0fe46660257757b0eb2a7d393cea25f24ee888f
+[
++src/main/java/com/epam/project/Service.java,4\1\4122a3a3a5e4baf65f65e1a2adcc51a4e2e3da86
+_
+/src/test/java/com/epam/project/ServiceTest.java,d\7\d790b9d42f10d83d5d1d722ddc58dcaf8d5e557e
+;
+devfile.txt,4\1\41f2b4a95e894c3ae5e37131b143ccc80bb81323
